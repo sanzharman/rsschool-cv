@@ -1,4 +1,5 @@
 # Rakhimov Sanzhar
+![Profile photo](image/photo.jpg)
 ## Contacts 
 - **Email:** a777aaa@mail.ru
 - **Phone number:** +77052058024
