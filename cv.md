@@ -26,4 +26,4 @@ Medicine internship KazNMU (2018-2020)
 
 ## Languages:
 - Russian 
-- English 
+- English (B1)
