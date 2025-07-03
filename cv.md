@@ -14,3 +14,16 @@ As an aspiring front-end developer, I am going to learn and grow in the field of
 - Using markdown
 - Basic layout skills
 - Using rs app for submitting and verifying tasks
+
+## Code examples
+function multiply(a, b){
+  return a * b
+}
+
+## Education
+Bachelor of medicine. KazNMU (2013-2018)
+Medicine internship KazNMU (2018-2020)
+
+## Languages:
+- Russian 
+- English 
